@@ -1,5 +1,5 @@
 ![MasterHead](https://media1.tenor.com/m/wIa91mot0tAAAAAd/pixel-city-chill.gif)
-<h1 align="center">Hi 👋, I'm Ussumane Camara</h1>
+<h1 align="center">Hi 👋, I'm Ussumane</h1>
 <h3 align="center">A passionate Software Engineer from England</h3>
 
 
