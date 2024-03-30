@@ -14,8 +14,6 @@
 - 💬 Ask me about **Film and photography**
 
 - 📫 How to reach me **ussumanec0@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
@@ -25,5 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamb95&show_icons=true&locale=en&layout=compact" alt="lamb95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamb95&show_icons=true&locale=en" alt="lamb95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamb95&" alt="lamb95" /></p>
