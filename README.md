@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/wIa91mot0tAAAAAd/pixel-city-chill.gif)
+![MasterHead](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋🏿, I'm Ussumane Camara</h1>
 <h3 align="center">A passionate Backend Developer from the UK</h3>
 
