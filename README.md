@@ -1,6 +1,6 @@
 ![MasterHead](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋🏿, I'm Ussumane</h1>
-<h3 align="center">A passionate Full-Stack Developer from the UK</h3>
+<h3 align="center">A passionate Data Engineer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamb95&label=Profile%20views&color=0e75b6&style=flat" alt="lamb95" /> </p>
 
